@@ -45,6 +45,6 @@ Adding KPIs for tracking daily operational performance.
 <h2>🤝 Contributions</h2>
 Contributions are welcome! If you have any suggestions or enhancements, feel free to open an issue or submit a pull request.
 
-📄 License
+<h2>📄 License</h2>
 This project is licensed under the MIT License.
 </HTML>
