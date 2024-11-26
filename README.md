@@ -1,20 +1,6 @@
 <HTML> <h1>🍔 Fast Food Sales Dashboard - Power BI</h1>
-Project Overview
 This Power BI dashboard provides an analysis of sales data for a fast food chain. The dashboard covers key business metrics like revenue, top-selling products, customer demographics, and sales trends, helping businesses make data-driven decisions.
 
-
-
-<h2>📋 Table of Contents</h2>
-Project Overview
-Features
-Data Sources
-Dashboard Pages
-Technologies Used
-Setup Instructions
-Insights & Analysis
-Future Enhancements
-Contributions
-License
 <h2>✨ Features</h2>
 Comprehensive Sales Analysis: View detailed metrics such as total revenue, order count, and average order value.
 Product Performance: Track the best-selling items and identify trends in customer preferences.
@@ -45,6 +31,4 @@ Adding KPIs for tracking daily operational performance.
 <h2>🤝 Contributions</h2>
 Contributions are welcome! If you have any suggestions or enhancements, feel free to open an issue or submit a pull request.
 
-<h2>📄 License</h2>
-This project is licensed under the MIT License.
 </HTML>
